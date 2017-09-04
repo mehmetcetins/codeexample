@@ -1,0 +1,31 @@
+local beam search x
+simulated annealing x
+Aðaçlar devam ve ödev x
+
+koþul tatmin problemleri x
+aðýrlýklý graflar ve ucs x
+oyun aðaçlarý ve minimax x
+
+alfa beta budamasý x
+koþul tatmin problemleri x
+mantýk giriþ x
+
+dfs algoritmasýnýn binary aðaçta x
+bfs algoritmasýnýn binary aðaçta x
+oyun aðaçlarý ve tic tac toe x
+
+mantýk (devam) x
+first order logic x
+derin öðrenme x
+
+yapay zeka tehdit mi x
+yapay zeka mantýklarýnýn kodlanmasý (fol) x
+bulanýk mantýk x
+
+genetik algoritmalar x
+neural network 1
+doðal dil iþleme
+
+perceptron kavramý
+perceptron ve öðrenme
+çok katmanlý yapay sinir aðlarý
