@@ -12,8 +12,10 @@ def check(data):
 	data.close()
 
 	
+if (len(sys.argv) > 1):
+	inp= sys.argv[1]
+else : inp = ""
 
-inp = sys.argv[1]
 if (inp == "tmm"):
 	tick_data.write(str(datetime.date.today()) + " tmm"+"\n")
 

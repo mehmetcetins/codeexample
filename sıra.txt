@@ -23,9 +23,9 @@ yapay zeka mantýklarýnýn kodlanmasý (fol) x
 bulanýk mantýk x
 
 genetik algoritmalar x
-neural network 1
-doðal dil iþleme
+neural network 1 x
+doðal dil iþleme x
 
-perceptron kavramý
-perceptron ve öðrenme
-çok katmanlý yapay sinir aðlarý
+perceptron kavramý x
+perceptron ve öðrenme x
+çok katmanlý yapay sinir aðlarý x
