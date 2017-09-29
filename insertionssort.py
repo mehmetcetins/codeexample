@@ -1,25 +1,28 @@
-target = []
 
-inp = input()
 
 def insert(inpu,array):
 	if len(array) > 0 :
-		for i in len(array):
-			if inpu > array[i]:
+		for i in range(len(array)):	
+			if inpu < array[i]:
 				first = array[0:i]
 				second = array[i:]
-				first.append(inpu)
+				first = [inpu] + first
+				array = first + second
+				break
+			else : 
+				target.append(inpu)
+				break
 
 	else : array.append(inpu)
-
-	array = first + second
-
+	print(array)
 	return array
 
-
+target = []
 a = True
 while a:
-	if inp == "q":
+	inp = input()
+	if inp == "exi":
 		a = False
-	else :
-		print(inp,target)
+		print(target)
+	else:
+		target = insert(int(inp),target)
