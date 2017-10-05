@@ -35,3 +35,14 @@ class example:
             
         example.swit(i+1,r,A)
         return i+1
+
+
+    def insertsort(array):
+        n = 0
+        for i in range(len(array)): 
+            for k in range(n+1):
+                if k != 0:
+                    if array[k-1] > array [k]:
+                        array = example.swit(k,k-1,array)
+            n += 1
+        return array
